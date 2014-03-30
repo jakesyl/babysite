@@ -3,9 +3,10 @@
 
 
 
-
-
-
+//database = localhost
+//login = backbac2_9babies
+//db table= backbac2_baby
+//alex1998 = pass for user
 
 
 
