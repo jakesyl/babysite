@@ -7,7 +7,7 @@
 //login = backbac2_9babies
 //db table= backbac2_baby
 //alex1998 = pass for user
-
+$con = mysqli_connect("localhost", "bacbbac2_9babies","alex1998", "backbac2_baby");
 
 
 
