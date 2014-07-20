@@ -7,7 +7,7 @@ if (mysqli_connect_errno())
         echo "Failed to connect to MySQL: " . mysqli_connect_error();
     }
 else{
-    $result = mysqli_query($con,"INSERT INTO Vote VALUES ");
+    $result = mysqli_query($con,"SELECT FROM '$votename' WHERE selection = $");
+    
 }
-//hfakshljkfa
 ?>
